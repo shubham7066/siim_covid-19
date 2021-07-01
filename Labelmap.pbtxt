@@ -1,0 +1,16 @@
+item{
+  id: 1
+  name: 'Typical Appearance'
+}
+item{
+  id: 2
+  name: 'Atypical Appearance'
+}
+item{
+  id: 3
+  name: 'Indeterminate Appearance'
+}
+item{
+  id: 1
+  name: 'Negative for Pneumonia'
+}
